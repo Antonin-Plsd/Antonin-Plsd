@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Spnow-dev/my-banner/blob/main/banner_github_spnow.jpg?raw=true" alt="Bannière"">
-</p>
-
 ## 👋 Hi, I'm Antonin-Plsd !
 
 - 👀 I'm a french student who loves content creation, Cyber, Dev, Hardware, Video games and Cars!
