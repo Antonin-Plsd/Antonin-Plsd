@@ -1,9 +1,8 @@
 ## 👋 Hi, I'm Antonin-Plsd !
 
-- 👀 I'm a french student who loves content creation, Cyber, Dev, Hardware, Video games and Cars!
+- 👀 I'm a french student who loves Tech, content creation, Cyber, Dev, Hardware, Video games and Cars!
 - 🌱 I’m currently learning C, JS, PHP and some Frameworks...
-- 🚀 I will restart posting my projects again in March 2026 or just a little later!
-
+- 🚀 I will post MyWh!shL on april or may...
 ---
 
 ### 🛠️ Technologies & Tools  
