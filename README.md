@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Antonin-Plsd !
+## 👋 Hi, I'm Antonin !
 
 - 👀 I'm a french student who loves Tech, content creation, Cyber, Dev, Hardware, Video games and Cars!
 - 🌱 I’m currently learning C, JS, PHP and some Frameworks...
