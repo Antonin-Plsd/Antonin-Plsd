@@ -42,6 +42,10 @@
 
 🔹 MyW!shL
 
+🔹 UCT (ultimate clicker test)
+
+🔹 Omnitrack
+
 🔹 HydroPlan
 
 🔹 My Portfolio
