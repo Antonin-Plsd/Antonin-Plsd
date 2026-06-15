@@ -63,10 +63,6 @@
 
 📌 **My Website**(https://antonin-plassard.me)
 
-💬 **Discord**: _@spnow_  
-
-📨 **Mail**: (coming soon)
-
 ---
 
 ### 🪶 A quote  
