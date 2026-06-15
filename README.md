@@ -39,7 +39,14 @@
 
 ### 🚀 Recent Projects  
 
-🔹 MyW!shL is coming soon...  
+🔹 MyW!shL
+
+🔹 HydroPlan
+
+🔹 My Portfolio
+
+🔹 Loggy : a multifonction discord bot
+
 
 ---
 
