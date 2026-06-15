@@ -3,6 +3,7 @@
 - 👀 I'm a french student who loves Tech, content creation, Cyber, Dev, Hardware, Video games and Cars!
 - 🌱 I’m currently learning C, JS, PHP and some Frameworks...
 - 🚀 I mainly code in JavaScript, Python, and HTML/CSS....
+- 🤖 I'm going to start learning cybersecurity with Rootme soon!
 ---
 
 ### 🛠️ Technologies & Tools  
