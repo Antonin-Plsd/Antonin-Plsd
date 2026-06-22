@@ -40,19 +40,19 @@
 
 ### 🚀 Recent Projects  
 
-🔹 Klock. : klock-flip.pages.dev
+🔹 Klock. : https://klock-flip.pages.dev
 
 🔹 MyW!shL (not available now)
 
-🔹 UCT (ultimate clicker test) : ultimate-click-test.pages.dev
+🔹 UCT (ultimate clicker test) : https://ultimate-click-test.pages.dev
 
-🔹 Omnitrack : omnitrack.pages.dev
+🔹 Omnitrack : https://omnitrack.pages.dev
 
 🔹 HydroPlan (not available because it's a proprietary business software that I developed in Python during my internship)
 
 🔹 My Portfolio (see below)
 
-🔹 Loggy : a multifonction discord bot (not available now)
+🔹 Loggy : a multifonction discord bot (not available)
 
 
 ---
