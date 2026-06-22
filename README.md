@@ -40,17 +40,19 @@
 
 ### 🚀 Recent Projects  
 
-🔹 MyW!shL
+🔹 Klock. : klock-flip.pages.dev
 
-🔹 UCT (ultimate clicker test)
+🔹 MyW!shL (not available now)
 
-🔹 Omnitrack
+🔹 UCT (ultimate clicker test) : ultimate-click-test.pages.dev
 
-🔹 HydroPlan
+🔹 Omnitrack : omnitrack.pages.dev
 
-🔹 My Portfolio
+🔹 HydroPlan (not available because it's a proprietary business software that I developed in Python during my internship)
 
-🔹 Loggy : a multifonction discord bot
+🔹 My Portfolio (see below)
+
+🔹 Loggy : a multifonction discord bot (not available now)
 
 
 ---
@@ -65,7 +67,7 @@
 
 ### 📫 Contact Me  
 
-📌 **My Website :** https://antonin-plassard.me
+📌 **My Portfolio :** https://antonin-plassard.me
 
 ---
 
@@ -74,12 +76,6 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
 </p>
-
----
-
-### 💻 [Root Me]
-
-_(Spnow)_
 
 ---
 
